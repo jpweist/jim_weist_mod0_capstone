@@ -1,0 +1,94 @@
+There is a great series of UI/UX posts called UX Crash Course: 31 Fundamentals. 
+Read the first three, short posts: 
+
+What is UX?, User Goals & Business Goals, and The 5 Main Ingredients of UX.
+Answer: UX design is is good design that enables the user to complete the task. 
+Without much effert to how to do it.
+Answer: User Goals & Bursiness Goals must be aligned for success. 
+Answer: the 5 main ingredients of ux:
+Psychology, Usability, Design, Copywriting, Analysis.
+
+After you're done reading the third post, read through the each section of questions again: 
+Psychology, Usability, Design, Copywriting, and Analysis. Choose one question from each of 
+these sections (so 5 total questions), and find one site that is good at supporting that 
+question, and find another site that violates that question.
+
+Answer: Psychology>How are you rewarding good behaviour?
+https://usabilitygeek.com/positive-reinforcement-ux-design/
+"Too often we describe the user experience as monolithic — a seamless, fluid, uninterrupted entity. In reality, that is not the case. A user experience consists of thousands of minuscule exchanges between user and platform.
+
+That is right: the fundamental unit of UX design is an interaction. That is why I find the word to be such an apt embodiment. So how do we create “good” interactions? If you are looking for the simplest way to do it (and as UXers, we always are), then look no further than positive reinforcement."
+
+https://medium.com/interactive-mind/5-reasons-why-being-too-positive-is-bad-for-ux-design-41cbc827d511
+"Not all praise is helpful, however.
+Previously, while contracting on a high-profile service design project, I began to notice a culture of unwarranted back-slapping. Regular company update meetings gave way to hearty ‘aren’t we doing well?’ rhetoric. Particularly after a user testing feedback session — relatively shaky insights could be spun into great successes;
+User clicked the intended button? High-five!
+User progressed through the test flow mostly unaided? High-five!
+User didn’t close the browser and upturn the desk in sheer frustration? High-five! Drinks all round!
+The problem was, areas where the user experience might have been greatly improved were being forgotten amidst the ‘hurrah’s!’. Almost as if one positive insight could discount the two or three not-so-positive insights.
+"
+
+Answer: Usability>Are you being clear and direct, or is this a little too clever?
+https://www.oreilly.com/ideas/the-top-five-ux-ingredients-a-designer-should-always-keep-in-their-back-pocket
+"“Doing” UX
+UX design (also sometimes called UXD) involves a process very similar to doing science: you do research to understand the users, you develop ideas to solve the users’ needs—and the needs of the business—and you build and measure those solutions in the real world to see if they work.
+
+You will learn about all of that in this book. Or if that’s not your deal, Lolcats are still an option."
+
+https://uxmastery.com/7-signs-person-isnt-actually-ux-designer/
+
+Answer: Design>Does it communicate the purpose and function without words?
+https://www.uxpin.com/studio/blog/interactive-prototypes-made-easy-shift-low-to-high-fidelity/
+https://uxdesign.cc/interaction-design-and-its-dimensions-39ca7e1d09f0
+
+Answer:  Copywriting>Is it clear, direct, simple, and functional?
+https://uxdesign.cc/use-plain-language-in-ux-writing-d7d5b0ea35f1>>Plain Language for UX Writing
+https://realbigwords.com/bad-ux-writing-mistakes
+Avoid over-branding copy on: 
+Navigation, 
+forms and field labels, 
+instructional text, 
+selection text (drop-downs, radio buttons),buttons.
+
+Consider incorporating your brand's voice in: 
+confirmation messaging, 
+rewards (badges, points), 
+404 pages, 
+server errors, 
+error messaging. 
+
+Answer: Analysis>>How can you use this analysis to make improvements?
+https://usabilityhour.com/improving-user-experience/
+Fixing 10 of the Most Common UX Mistakes
+1. Focusing on “Impressive Design” over “Usable Architecture”
+The best user interfaces are the ones that get out of the way and provide the user with simple, easy to understand tools.
+2. Not Removing Unvalidated Features
+Taking a page from Eric Reis’s “The Lean Startup“, anything you add to your product must be validated in order for it to stay there.
+3. Listening to What Users Want, Not What They Actually Use
+For testing new features, designs and re-designs, don’t ask users their opinions, instead watch what they do.
+Sit a user down, give them a list of tasks, and watch as they attempt to execute them. Do this with enough users and you’ll notice patterns that develop of people getting stuck on the same task.
+4. Forcing People to Signup Without Offering Any Value
+Give visitors as much as you can before asking for their information. A great example of this is products that allow you to begin creating something, and don’t ask you for user information unit you’re ready to publish it.
+5. Taking User Feedback Personally
+Make sure to communicate with your team, and yourself, that developing a usable product is an ongoing process. What they’re creating is a starting point, and it will go through hundreds of iterations.
+6. Not Including an Onboarding Experience
+Put some time into creating an on boarding experience. It doesn’t have to be overly complicated, in fact, the less the better.
+7. Having a Poorly Design Search Function
+Check out my post on designing a proper search function. It has a ton of tips on how to do it right.
+
+To paraphrase here a few key points:
+
+Have you search box on every page
+Put it somewhere it’s always going to be visible
+Don’t use advanced search until your results page
+Always search the entire site (not subsections)
+Make your results MATCH the look of your content
+GIve people the ability to sort and filter their results
+Help people out by fixing spelling errors and recommending what they meant to search
+Post links to the sites and brief descriptions in your mod 0 capstone gist.
+8. Not Optimizing for Mobile
+Media queries are CSS rules that allow you to define rules for your existing classes based on the size of the current browser. For example, your CSS query would say, “If the browser’s max size is 640px, then make the main container 620px wide”.
+9. Not Offering Users Help
+There are a ton of themes out there you can download and simply plug in and start filling with content. Provide a lot of high level “how-to” videos and have an FAQ section with common tasks phrased as questions.
+10. No Emotional Connection Between Your Brand and Your Users
+Brand yourself. It’s not a simple as it sounds, but know that if you don’t take steps to brand yourself, your customers will define your brand for you, based entirely on your interactions with them. This could go very well or very very bad.
